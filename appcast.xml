@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:ns0="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>MIDIPlayerMac Big Sur</title><item><title>MIDIPlayerMac 1.0.41 (100)</title><ns0:version>100</ns0:version><ns0:shortVersionString>1.0.41</ns0:shortVersionString><ns0:minimumSystemVersion>11.0</ns0:minimumSystemVersion><enclosure url="https://github.com/frjodupa/MIDIPlayerMac-BigSur-Releases/releases/download/v1.0.41-b100/MIDIPlayerMac-DEV-BigSur-1.0.41-b100.zip" length="10818890" type="application/octet-stream" ns0:edSignature="f4fWbYPjXVESe5TpUzDdRQY6R8VOfR9xQCwruaZqZbwu49/JG2QayOKFUDNLY98GEM/LEk0ODDteRtpyuQOPCw=="></enclosure></item></channel></rss><!-- sparkle-signatures:
+edSignature: MDNG1/prNDC6arITfTFEmhpVEdAbj2jDAu06uM6Rbuy2XY+RfoHzBX4eCLv7kkTYgQjWtqfZvlOiEe+Gjk1FCQ==
+length: 947
+-->
